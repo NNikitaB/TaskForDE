@@ -30,7 +30,7 @@ get_count() - count are missions,rockets,launches,all
 
 #### Ссылка на первую часть заданий:
 
- * [Задачки для стажера]()
+ * [Задачки для стажера](https://github.com/NNikitaB/TasksForIntern)
 
 
 
