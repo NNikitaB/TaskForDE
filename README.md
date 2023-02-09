@@ -15,7 +15,7 @@ get_count() - count are missions,rockets,launches,all
     ракетам и пускам (missions, rockets and launches).
 
  * Ссылка на модель витрины данных:[link](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1LdWpUr9a_i2OA4yab1InDnmiPj4aWIft/)
- * Или другая [ссылка]()
+ * Или другая [ссылка](https://github.com/NNikitaB/TaskForDE/blob/master/task_for_de_datamart.drawio.png)
 
 #### О запуске
  
