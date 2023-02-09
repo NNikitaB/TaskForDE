@@ -1,0 +1,9 @@
+fastapi==0.78.0
+uvicorn
+SQLAlchemy
+pydantic
+gql
+aiohttp
+typing
+sqlalchemy_utils
+psycopg2
